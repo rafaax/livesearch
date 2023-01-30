@@ -1,2 +1,2 @@
 # livesearch
-Livesearch (Php Ajax Jquery)
+Livesearch feature with Php, Ajax & Jquery
